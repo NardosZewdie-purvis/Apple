@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81467239.chunk.css",
+    "main.js": "/static/js/main.da9471e7.chunk.js",
+    "main.js.map": "/static/js/main.da9471e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.819250b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.819250b8.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.7c30f971.chunk.js": "/static/js/2.7c30f971.chunk.js",
+    "static/js/2.7c30f971.chunk.js.map": "/static/js/2.7c30f971.chunk.js.map",
+    "static/js/3.2d15580b.chunk.js": "/static/js/3.2d15580b.chunk.js",
+    "static/js/3.2d15580b.chunk.js.map": "/static/js/3.2d15580b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.81467239.chunk.css.map": "/static/css/main.81467239.chunk.css.map",
+    "static/js/2.7c30f971.chunk.js.LICENSE.txt": "/static/js/2.7c30f971.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/tile_valentines_day__fraykk637bam_large.2a1ab750.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.819250b8.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.7c30f971.chunk.js",
+    "static/css/main.81467239.chunk.css",
+    "static/js/main.da9471e7.chunk.js"
+  ]
+}
